@@ -1,0 +1,12 @@
+2019-12-24 22:24:50,886  INFO [main] LoginTest:30 - ****************************** Starting test cases execution  *****************************************
+2019-12-24 22:24:57,389  INFO [main] LoginTest:34 - launching chrome broswer
+2019-12-24 22:25:05,933  INFO [main] LoginTest:41 - entering application URL
+2019-12-24 22:25:05,934  WARN [main] LoginTest:42 - Hey this just a warning message
+2019-12-24 22:25:05,935 FATAL [main] LoginTest:43 - hey this is just fatal error message
+2019-12-24 22:25:05,936 DEBUG [main] LoginTest:44 - this is debug message
+2019-12-24 22:25:05,953  INFO [main] LoginTest:50 - ****************************** starting test case *****************************************
+2019-12-24 22:25:05,953  INFO [main] LoginTest:51 - ****************************** loginPageTitleTest *****************************************
+2019-12-24 22:25:05,979  INFO [main] LoginTest:55 - login page title is--->Login - My Store
+2019-12-24 22:25:05,980  INFO [main] LoginTest:57 - ****************************** ending test case *****************************************
+2019-12-24 22:25:05,981  INFO [main] LoginTest:58 - ****************************** loginPageTitleTest *****************************************
+2019-12-24 22:25:07,231  INFO [main] LoginTest:65 - ****************************** Browser is closed *****************************************
